@@ -49,3 +49,14 @@ def decode_char(char)
     char_list.each { |x| result += decode_char(x) }
     result
   end
+
+  
+def decode(sentence)
+    word_list = sentence.split('   ')
+    result = ''
+    word_list.each { |word| result += "#{decode_word(word)} " }
+    result
+  end
+  
+  print(decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
+  
