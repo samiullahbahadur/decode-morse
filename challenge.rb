@@ -40,3 +40,7 @@ MORSE_DICT{
   '----.' => '9',
   '-----' => '0'
 }.freeze
+def decode_char(char)
+    MORSE_DICT[char].capitalize
+  end
+  
