@@ -7,9 +7,8 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- RUBY
+- Linters
 
 
 ## Getting Started
@@ -41,7 +40,10 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@Bahadur](https://twitter.com/Samiull88496331)
 - LinkedIn: [Bahadur](https://www.linkedin.com/in/jsivahera/)
 
-
+👤 **Chia Carlyle**
+- GitHub: [@carlylechia](https://github.com/carlylechia)
+- Twitter: [@chiacarlyle](https://twitter.com/chiacarlyle)
+- LinkedIn: [chia-carlyle](https://linkedin.com/in/chia-carlyle)
 
 
 ## 🤝 Contributing
@@ -56,9 +58,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to Microverse
 
 ## 📝 License
 
