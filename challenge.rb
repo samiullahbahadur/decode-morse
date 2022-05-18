@@ -43,4 +43,9 @@ MORSE_DICT{
 def decode_char(char)
     MORSE_DICT[char].capitalize
   end
-  
+  def decode_word(word)
+    char_list = word.split
+    result = ''
+    char_list.each { |x| result += decode_char(x) }
+    result
+  end
