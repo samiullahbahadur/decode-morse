@@ -40,25 +40,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author-1
 
-👤 **Jonathan Sivahera**
-
-- GitHub: [@jssol](https://github.com/jssol)
-- Twitter: [@jsivahera](https://twitter.com/jsivahera)
-- LinkedIn: [jsivahera](https://www.linkedin.com/in/jsivahera/)
-
-## Author-2
-
 👤 **Samiullah Bahadur**
 - GitHub: [@ Bahadur](https://github.com/samiullahbahadur)
 - Twitter: [@Bahadur](https://twitter.com/Samiull88496331)
 - LinkedIn: [Bahadur](https://www.linkedin.com/in/jsivahera/)
 
-## Author-3
 
-👤 **Bushra Mustofa**
-- GitHub: [@bushra](https://github.com/bushmusi)
-- Twitter: [@bushra](https://twitter.com/bushera_mestofa)
-- LinkedIn: [@bushra](https://www.linkedin.com/in/bushra-mustofa/)
+
 
 ## 🤝 Contributing
 
