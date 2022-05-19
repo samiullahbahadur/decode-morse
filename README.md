@@ -2,7 +2,7 @@
 
 # Decode Morse message
 
-> This project is about decrypting given char, word, or sentence to human readable language. To solve this problem we have used `Ruby` as our programming language.
+> This project is about decrypting given char, word, or sentence from 'Morse code' to human readable English language. To solve this problem we have used `Ruby` as our programming language.
 
 
 ## Built With
@@ -13,23 +13,9 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+You will need to have Ruby installed in your computer.
+Clone the repository.
+Run the code.
 
 
 
